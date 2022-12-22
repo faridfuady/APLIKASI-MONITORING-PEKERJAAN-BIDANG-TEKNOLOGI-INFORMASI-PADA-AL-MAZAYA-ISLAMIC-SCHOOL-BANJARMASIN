@@ -1,0 +1,11 @@
+/* .jumbotron .display-4{
+    color: white;
+    margin-top: 200px;
+} */
+
+.carousel-item {
+    height: 670px;
+}
+.carousel-item img{
+    margin-top: -600px;
+}
